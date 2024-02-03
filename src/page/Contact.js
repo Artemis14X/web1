@@ -175,14 +175,14 @@ export default function Contact() {
                         <div className="col-lg-8" >
                             <div className="subscription-form" >
                                 <ul className="list-unstyled custom-social" >
-                                    <li><a href="#"><span className="fa fa-brands fa-facebook-f" style={{ fontSize: "40px", paddingRight: "30px", color: "blue" }}></span></a></li>
-                                    <p className="mt-1 bg-secondary bg-gradient text-white" style={{ width: "130px", borderRadius: "20px", textAlign: "center" }}><a href="">จีระยุทธ วงษ์คำเหลา</a></p>
-                                    <li><a href="#"><span className="fa fa-brands fa-line" style={{ fontSize: "40px", paddingRight: "30px", color: "#06C755" }}></span></a></li>
-                                    <p className="mt-1 bg-secondary bg-gradient text-white" style={{ width: "135px", borderRadius: "20px", textAlign: "center" }}><a href="">LineID: Wongkumlao</a></p>
+                                    <li><a href="https://www.facebook.com/jeerayut.wongkumlao"><span className="fa fa-brands fa-facebook-f" style={{ fontSize: "40px", paddingRight: "30px", color: "blue" }}></span></a></li>
+                                    <p className="mt-1 bg-secondary bg-gradient text-white" style={{ width: "130px", borderRadius: "20px", textAlign: "center" }}><a href="https://www.facebook.com/jeerayut.wongkumlao">จีระยุทธ วงษ์คำเหลา</a></p>
+                                    <li><a href="https://line.me/ti/p/kmwy__R4cs?fbclid=IwAR01iVXBZMf6Mw_0hOK-RfhsSwJliu8phMsc6dJHD5RjLE3leYv2A9-vAYc"><span className="fa fa-brands fa-line" style={{ fontSize: "40px", paddingRight: "30px", color: "#06C755" }}></span></a></li>
+                                    <p className="mt-1 bg-secondary bg-gradient text-white" style={{ width: "135px", borderRadius: "20px", textAlign: "center" }}><a href="https://line.me/ti/p/kmwy__R4cs?fbclid=IwAR01iVXBZMf6Mw_0hOK-RfhsSwJliu8phMsc6dJHD5RjLE3leYv2A9-vAYc">LineID: Wongkumlao</a></p>
                                     <li><a href="#"><span className="fa fa-brands fa-instagram" style={{ fontSize: "40px", paddingRight: "30px", color: "#330066" }}></span></a></li>
                                     <p className="mt-1 bg-secondary bg-gradient text-white" style={{ width: "135px", borderRadius: "20px", textAlign: "center" }}><a href="">จีระยุทธ วงษ์คำเหลา</a></p>
-                                    <li><a href="#"><span className="fa fa-brands fa-youtube" style={{ fontSize: "40px", paddingRight: "30px", color: "red" }}></span></a></li>
-                                    <p className="mt-1 bg-secondary bg-gradient text-white" style={{ width: "135px", borderRadius: "20px", textAlign: "center" }}><a href="">จีระยุทธ วงษ์คำเหลา</a></p>
+                                    <li><a href="https://www.youtube.com/@Artemis14xDev"><span className="fa fa-brands fa-youtube" style={{ fontSize: "40px", paddingRight: "30px", color: "red" }}></span></a></li>
+                                    <p className="mt-1 bg-secondary bg-gradient text-white" style={{ width: "135px", borderRadius: "20px", textAlign: "center" }}><a href="https://www.youtube.com/@Artemis14xDev">ฉีดโฟม ทุ่นลอยน้ำ short</a></p>
                                 </ul>
 
                             </div>
@@ -196,10 +196,10 @@ export default function Contact() {
                                 จำหน่าย และติดตั้ง ถังฉีดโฟม มือ1 มือสอง ราคาถูก ส่งทั่วประเทศ</p>
 
                             <ul className="list-unstyled custom-social" style={{ fontSize: "30px", display: "flex", justifyContent: "center", padding: "30px", marginRight: '70px' }}>
-                                <li><a href="#"><span className="fa fa-brands fa-facebook-f" style={{ paddingRight: "3px", color: "blue" }}></span></a></li>
-                                <li><a href="#"><span className="fa fa-brands fa-line" style={{ paddingRight: "0.2px", color: "#06C755" }}></span></a></li>
+                                <li><a href="https://www.facebook.com/jeerayut.wongkumlao"><span className="fa fa-brands fa-facebook-f" style={{ paddingRight: "3px", color: "blue" }}></span></a></li>
+                                <li><a href="https://line.me/ti/p/kmwy__R4cs?fbclid=IwAR01iVXBZMf6Mw_0hOK-RfhsSwJliu8phMsc6dJHD5RjLE3leYv2A9-vAYc"><span className="fa fa-brands fa-line" style={{ paddingRight: "0.2px", color: "#06C755" }}></span></a></li>
                                 <li><a href="#"><span className="fa fa-brands fa-instagram" style={{ paddingLeft: "0.2px", color: "#330066" }}></span></a></li>
-                                <li><a href="#"><span className="fa fa-brands fa-youtube" style={{ color: "red" }}></span></a></li>
+                                <li><a href="https://www.youtube.com/@Artemis14xDev"><span className="fa fa-brands fa-youtube" style={{ color: "red" }}></span></a></li>
                             </ul>
                         </div>
 
@@ -252,7 +252,7 @@ export default function Contact() {
 
                             <div className="col-lg-6 text-center text-lg-end">
                                 <ul className="list-unstyled d-inline-flex ms-auto">
-                                    <li className="me-4"><a href="#">ทีมงาน &amp; ปรึกษาปัญหา</a></li>
+                                    <li className="me-4"><a href="contact">ทีมงาน &amp; ปรึกษาปัญหา</a></li>
                                     <li><a href="#">เงื่อนไขและบริการ</a></li>
                                 </ul>
                             </div>

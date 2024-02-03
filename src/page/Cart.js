@@ -85,12 +85,13 @@ export default function Cart() {
                                 </svg>
                             </span>
                             <h2 class="display-3 text-black " style={{ textShadow: "black 10px 10px 10px 10px" }}>Comming Soon...!</h2>
-                            <p class="lead mb-5 mt-5">กำลังปรับปรุงระบบ การซื้อขายออนไลน์ กรุณาโทรติดต่อ หรือ แอดไลน์สอบถาม หรือสั่งซื้อสินค้า</p>
+                            <p class="lead mb-5 mt-5">กำลังปรับปรุงระบบ การซื้อขายออนไลน์ กรุณาโทรติดต่อ : 082-229-8655 (สายด่วน)
+                            หรือ แอดไลน์สอบถาม หรือสั่งซื้อสินค้า</p>
                             <ul className="list-unstyled custom-social" style={{ fontSize: "40px", display: "flex", justifyContent: "center", padding: "30px" }}>
                                 <li><a href="https://www.facebook.com/jeerayut.wongkumlao"><span className="fa fa-brands fa-facebook-f " style={{ paddingRight: "30px", color: "blue" }}></span></a></li>
-                                <li><a href="#"><span className="fa fa-brands fa-line" style={{ paddingRight: "30px", color: "#06C755" }}></span></a></li>
+                                <li><a href="https://line.me/ti/p/kmwy__R4cs?fbclid=IwAR01iVXBZMf6Mw_0hOK-RfhsSwJliu8phMsc6dJHD5RjLE3leYv2A9-vAYc"><span className="fa fa-brands fa-line" style={{ paddingRight: "30px", color: "#06C755" }}></span></a></li>
                                 <li><a href="#"><span className="fa fa-brands fa-instagram" style={{ paddingRight: "30px", color: "#330066" }}></span></a></li>
-                                <li><a href="#"><span className="fa fa-brands fa-youtube" style={{ color: "red" }}></span></a></li>
+                                <li><a href="https://www.youtube.com/@Artemis14xDev"><span className="fa fa-brands fa-youtube" style={{ color: "red" }}></span></a></li>
                             </ul>
                             <p><a href="/Shop" class="btn btn-sm btn-outline-black mt-3">กลับไปที่ร้านค้า</a></p>
                         </div>
@@ -106,10 +107,10 @@ export default function Cart() {
                             จำหน่าย และติดตั้ง ถังฉีดโฟม มือ1 มือสอง ราคาถูก ส่งทั่วประเทศ</p>
 
                         <ul className="list-unstyled custom-social" style={{ fontSize: "30px", display: "flex", justifyContent: "center", padding: "30px", marginRight: '70px' }}>
-                            <li><a href="#"><span className="fa fa-brands fa-facebook-f" style={{ paddingRight: "3px", color: "blue" }}></span></a></li>
-                            <li><a href="#"><span className="fa fa-brands fa-line" style={{ paddingRight: "0.2px", color: "#06C755" }}></span></a></li>
+                            <li><a href="https://www.facebook.com/jeerayut.wongkumlao"><span className="fa fa-brands fa-facebook-f" style={{ paddingRight: "3px", color: "blue" }}></span></a></li>
+                            <li><a href="https://line.me/ti/p/kmwy__R4cs?fbclid=IwAR01iVXBZMf6Mw_0hOK-RfhsSwJliu8phMsc6dJHD5RjLE3leYv2A9-vAYc"><span className="fa fa-brands fa-line" style={{ paddingRight: "0.2px", color: "#06C755" }}></span></a></li>
                             <li><a href="#"><span className="fa fa-brands fa-instagram" style={{ paddingLeft: "0.2px", color: "#330066" }}></span></a></li>
-                            <li><a href="#"><span className="fa fa-brands fa-youtube" style={{ color: "red" }}></span></a></li>
+                            <li><a href="https://www.youtube.com/@Artemis14xDev"><span className="fa fa-brands fa-youtube" style={{ color: "red" }}></span></a></li>
                         </ul>
                     </div>
 
@@ -162,7 +163,7 @@ export default function Cart() {
 
                         <div className="col-lg-6 text-center text-lg-end">
                             <ul className="list-unstyled d-inline-flex ms-auto">
-                                <li className="me-4"><a href="#">ทีมงาน &amp; ปรึกษาปัญหา</a></li>
+                                <li className="me-4"><a href="contact">ทีมงาน &amp; ปรึกษาปัญหา</a></li>
                                 <li><a href="#">เงื่อนไขและบริการ</a></li>
                             </ul>
                         </div>

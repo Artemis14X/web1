@@ -20,7 +20,7 @@ function blog() {
                                 <div className="post-content-entry">
                                     <h3><a href="#">แพลอยน้ำแบบมีห้อง</a></h3>
                                     <div className="meta">
-                                        <span>by <a href="#">จีระยุทธ วงษ์คำเหลา</a></span> <span>on <a href="#">Dec 19, 2021</a></span>
+                                        <span>by <a href="#">จีระยุทธ วงษ์คำเหลา</a></span> <span><a href="#"></a></span>
                                     </div>
                                 </div>
                             </div>
@@ -32,7 +32,7 @@ function blog() {
                                 <div className="post-content-entry">
                                     <h3><a href="#">แพลยน้ำแบบ โล่งมีสะพาน</a></h3>
                                     <div className="meta">
-                                        <span>by <a href="#">จีระยุทธ วงษ์คำเหลา</a></span> <span>on <a href="#">Dec 15, 2021</a></span>
+                                        <span>by <a href="#">จีระยุทธ วงษ์คำเหลา</a></span> <span> <a href="#"></a></span>
                                     </div>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@ function blog() {
                                 <div className="post-content-entry">
                                     <h3><a href="#">แบลอยน้ำ แบบหลังคาจั่ว</a></h3>
                                     <div className="meta">
-                                        <span>by <a href="#">จีระยุทธ วงษ์คำเหลา</a></span> <span>on <a href="#">Dec 12, 2021</a></span>
+                                        <span>by <a href="#">จีระยุทธ วงษ์คำเหลา</a></span> <span> <a href="#"></a></span>
                                     </div>
                                 </div>
                             </div>
